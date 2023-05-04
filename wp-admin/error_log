@@ -1,0 +1,6 @@
+[27-May-2022 17:13:19 UTC] PHP Fatal error:  Out of memory (allocated 50593792) (tried to allocate 32768 bytes) in /home/ic026152/public_html/wp-includes/pluggable.php on line 1978
+[27-May-2022 17:13:22 UTC] PHP Fatal error:  Out of memory (allocated 40108032) (tried to allocate 524288 bytes) in /home/ic026152/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php on line 2125
+[27-May-2022 17:13:23 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 65536 bytes) in /home/ic026152/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Utilities/CartController.php on line 773
+[27-May-2022 17:13:23 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 65536 bytes) in /home/ic026152/public_html/wp-includes/class-wp-fatal-error-handler.php on line 45
+[27-May-2022 17:13:23 UTC] PHP Fatal error:  Out of memory (allocated 71827456) (tried to allocate 32768 bytes) in /home/ic026152/public_html/wp-content/plugins/case-theme-core/lib/scss.inc.php on line 1268
+[27-May-2022 17:13:23 UTC] PHP Fatal error:  Out of memory (allocated 63438848) (tried to allocate 32768 bytes) in /home/ic026152/public_html/wp-content/themes/itfirm/inc/template-tags.php on line 1029
